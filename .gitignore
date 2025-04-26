@@ -1,0 +1,44 @@
+# Ambientes virtuais
+venv/
+vevn/
+env/
+.venv/
+.env/
+
+# Arquivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de logs
+*.log
+
+# Configurações do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDEs
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.swp
+*.bak
+*.tmp
+
+# Arquivos de testes e cobertura
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+htmlcov/
+
+# Dependências empacotadas
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Arquivos de cache do pip
+pip-wheel-metadata/
+*.dist-info/
